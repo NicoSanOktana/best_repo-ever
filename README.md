@@ -1,2 +1,2 @@
-# best_repo-ever
+# best_repo_ever
 Just for training purposes
